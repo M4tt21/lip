@@ -1,0 +1,1 @@
+let f g = if g(10)>10 then 1 else 2;;
