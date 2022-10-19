@@ -1,22 +1,22 @@
 (lang dune 3.4)
 
-(name boolexpr)
+(name arithexpr)
 
 (generate_opam_files true)
 
 (source
  (github username/reponame))
 
-(authors "Massimo Bartoletti")
+(authors "Author Name")
 
-(maintainers "Massimo Bartoletti")
+(maintainers "Maintainer Name")
 
 (license LICENSE)
 
 (documentation https://url/to/documentation)
 
 (package
- (name boolexpr)
+ (name arithexpr)
  (synopsis "A short synopsis")
  (description "A longer description")
  (depends ocaml dune)

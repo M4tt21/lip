@@ -35,10 +35,15 @@ You can work on these exercises using the online Ocaml playground: [Try Ocaml](h
 1. [Longest subsequence](ocaml-basics/longsub)
 1. [Ping pong](ocaml-basics/ping-pong)
 
-## Untyped arithmetic expressions
+## Arithmetic expressions
 
-1. [Installing OCaml & project setup](untyped-expr/)
-1. [A minimal language of boolean expressions](untyped-expr/boolexpr)
+To work at this project you must have a local installation of OCaml. 
+Look [here](install-ocaml) for minimal instructions.
+
+1. [A minimal language of boolean expressions](expr/boolexpr)
+1. [Boolean expressions with not, and, or](expr/andboolexpr)
+1. [Untyped arithmetic expressions](expr/arithexpr)
+1. [Boolean expressions with propositional variables](expr/varboolexpr)
 
 ## References
 
